@@ -1,0 +1,12 @@
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\bin\Debug\netcoreapp3.0\Encryption_Decryption.exe
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\bin\Debug\netcoreapp3.0\Encryption_Decryption.deps.json
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\bin\Debug\netcoreapp3.0\Encryption_Decryption.runtimeconfig.json
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\bin\Debug\netcoreapp3.0\Encryption_Decryption.runtimeconfig.dev.json
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\bin\Debug\netcoreapp3.0\Encryption_Decryption.dll
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\bin\Debug\netcoreapp3.0\Encryption_Decryption.pdb
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\obj\Debug\netcoreapp3.0\Encryption_Decryption.csprojAssemblyReference.cache
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\obj\Debug\netcoreapp3.0\Encryption_Decryption.csproj.CoreCompileInputs.cache
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\obj\Debug\netcoreapp3.0\Encryption_Decryption.AssemblyInfoInputs.cache
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\obj\Debug\netcoreapp3.0\Encryption_Decryption.AssemblyInfo.cs
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\obj\Debug\netcoreapp3.0\Encryption_Decryption.dll
+C:\Users\auysa\source\repos\Encryption_Decryption\Encryption_Decryption\obj\Debug\netcoreapp3.0\Encryption_Decryption.pdb
